@@ -1,4 +1,4 @@
-# 🚇 서울시 지하철 혼잡도 예측 프로젝트
+# 🚇 서울시 지하철 혼잡도 예측
 
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003224544
 
