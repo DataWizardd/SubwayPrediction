@@ -1,6 +1,6 @@
 # 🚇 서울시 지하철 혼잡도 예측 프로젝트
 
-https://docs.google.com/spreadsheets/u/0/d/14FIx0t1ys07fEAmYOtSHsBpcFhuvMLhb/htmlview
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003224544
 
 ## 📌 개요
 서울시민 중 절반 이상이 매일 지하철을 이용하며, 2022년 기준 하루 평균 약 1,025만 건의 대중교통 이용 중 **50.3%가 지하철**을 차지함. 
